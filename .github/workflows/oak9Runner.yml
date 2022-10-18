@@ -1,5 +1,5 @@
 name: Run oak9 Analysis
-on: 
+on:
   push:
     branches:
       - devtest-*
