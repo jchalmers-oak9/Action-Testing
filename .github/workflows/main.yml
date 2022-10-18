@@ -1,8 +1,5 @@
 name: Run oak9 Analysis
-on:
-  push:
-    branches:
-      - devtest-*
+on: push
 jobs:
   oac9-iac-scan:
     runs-on: ubuntu-latest
